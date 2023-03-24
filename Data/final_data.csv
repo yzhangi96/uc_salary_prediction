@@ -1,0 +1,99 @@
+"","name","school","rank","school_score","role","tenure_track","pred_male","Total.Pay","affiliation","cited_by","h_index","count_unique_coauthor","count_pub","year_first_pub","year_last_pub"
+"2","Adityanand Guntuboyina","berkeley",2,4.8,"faculty","True","1",151827,"Associate Professor, Department of Statistics, University of California, Berkeley",1190,17,13,42,2009,2022
+"4","Alan Hammond","berkeley",2,4.8,"faculty","True","1",162649,"Professor of Mathematics and Statistics, U.C. Berkeley",1241,22,0,67,2001,2023
+"5","Alexander Aue","ucdavis",13,4,"faculty","True","1",269509,"University of Virginia",39,2,0,3,2020,2021
+"7","Alyson Fletcher","ucla",19,3.9,"faculty","True","0",87617,"Associate Professor, UCLA",3508,30,16,80,2002,2022
+"11","Annie Qu","uci",27,3.5,"faculty","True","0",280950,"University of California Irvine",3704,29,28,140,1920,2023
+"12","Arash Amini","ucla",19,3.9,"faculty","True","1",129425,"Associate Professor of Statistics, UCLA",1388,14,0,45,2006,2023
+"13","Ariana Anderson","ucla",19,3.9,"faculty","True","0",130459,"Assistant Professor, University of California, Los Angeles",1242,19,21,66,1952,2023
+"15","Avi Feller","berkeley",2,4.8,"faculty","True","1",231422,"UC Berkeley",3563,26,12,68,2009,2023
+"16","Babak Shahbaba","uci",27,3.5,"faculty","True","1",234299,"Statistics and Computer Science, University of California, Irvine",2812,23,0,137,2001,2023
+"17","Balakanapathy Rajaratnam","ucdavis",13,4,"faculty","True","1",178656,"University of California, Davis",5481,33,0,202,1999,2022
+"19","Bin Nan","uci",27,3.5,"faculty","True","1",362775,"Unknown affiliation",7403,49,0,203,2000,2023
+"20","Bin Yu","berkeley",2,4.8,"faculty","True","1",427070,"Professor of Statistics and EECS, UC Berkeley",36688,76,26,327,1989,2023
+"21","Bingling Wang","ucla",19,3.9,"faculty","False","0",133623,"UCLA",5,1,4,6,2013,2021
+"24","Can M. Le","ucdavis",13,4,"faculty","True","1",136617,"sinh vien truong dai hoc y duoc Can Tho",5737,44,0,163,1975,2020
+"25","Carter Butts","uci",27,3.5,"faculty","True","1",204083,"Chancellor's Professor, Departments of Sociology, Statistics, Computer Science, and EECS, UC Irvine",13363,50,104,286,1997,2023
+"26","Catherine Sugar","ucla",19,3.9,"faculty","True","0",235734,"University of California Los Angeles",14386,65,14,253,1949,2023
+"27","Chad Hazlett","ucla",19,3.9,"faculty","True","1",160745,"UCLA, Dept. of Statistics, Dept. of Political Science",2360,18,5,63,2002,2023
+"28","Christiana Drake","ucdavis",13,4,"faculty","True","0",166258,"Professor of Statistics, University of California, Davis",4251,30,0,140,1977,2023
+"30","Christopher Paciorek","berkeley",2,4.8,"faculty","False","1",100722,"Adjunct Professor, Department of Statistics, University of California Berkeley",23191,44,0,106,1995,2017
+"31","Daniel Gillen","uci",27,3.5,"faculty","True","1",377072,"Chancellor’s Professor and Chair of Statistics, University of California, Irvine",21746,64,20,324,1991,2023
+"32","David Aldous","berkeley",2,4.8,"faculty","False","1",5006,"Emeritus Professor of Statistics, U.C. Berkeley",20407,64,27,325,1973,2023
+"34","David Draper","ucsc",44,2.9,"faculty","True","1",266829,"Professor (Statistics), Department (Statistics), University (California, Santa Cruz)",19589,48,45,228,1930,2023
+"37","Debashis Paul","ucdavis",13,4,"faculty","True","1",155200,"Department of Statistics, University of California, Davis",3675,21,20,113,2005,2023
+"38","Deborah Nolan","berkeley",2,4.8,"faculty","False","0",248199,"University of California",3192,23,0,128,1987,2022
+"40","Duncan Temple Lang","ucdavis",13,4,"faculty","True","1",233367,"Professor, University of California, Davis",1128,12,0,48,1997,2021
+"41","Edward Leamer","ucla",19,3.9,"faculty","True","1",161852,"UCLA",36846,59,5,299,1968,2023
+"42","Elizabeth Purdom","berkeley",2,4.8,"faculty","True","0",167911,"Associate Professor of Statistics, UC Berkeley",32259,33,10,82,2004,2022
+"44","Erik Sudderth","uci",27,3.5,"faculty","True","1",212617,"Professor of Computer Science, UC Irvine",6953,38,34,127,1998,2022
+"45","Erin Hartman","berkeley",2,4.8,"faculty","True","0",168750,"UCLA",453,9,0,12,2009,2021
+"48","Frederic Schoenberg","ucla",19,3.9,"faculty","True","1",280564,"Unknown affiliation",4895,35,0,182,1997,2023
+"52","Giles Hooker","berkeley",2,4.8,"faculty","True","1",70833,"Professor of Statistics, UC Berkeley",6239,35,64,185,1864,2023
+"53","Graeme Blair","ucla",19,3.9,"faculty","True","1",140700,"Associate Professor of Political Science, UCLA; Co-director of methods and trainings, EGAP",2470,14,37,27,2010,2023
+"55","Guani Wu","ucla",19,3.9,"faculty","False","1",123412,"Lecturer, University of California, Los Angeles",258,6,3,8,2009,2020
+"56","Haiyan Huang","berkeley",2,4.8,"faculty","True","0",208260,"University of California, Berkeley",26141,33,26,87,2002,2023
+"57","Hal Stern","uci",27,3.5,"faculty","True","1",439855,"Professor of Statistics, University of California, Irvine",50325,48,0,240,1986,2023
+"58","Hao Chen","ucdavis",13,4,"faculty","True","1",146433,"Associate Professor, Department of Statistics, UC Davis",1291,16,3,51,2008,2023
+"60","Hongjing Lu","ucla",19,3.9,"faculty","True","0",189955,"University of California, Los Angeles (UCLA)",2979,29,46,152,2002,2022
+"61","Hongquan Xu","ucla",19,3.9,"faculty","True","1",239626,"UCLA Statistics",2758,32,24,86,1990,2023
+"62","Ivan Jeliazkov","uci",27,3.5,"faculty","True","1",169050,"Associate Professor of Economics and Statistics, University of California Irvine",2376,14,16,34,2001,2020
+"63","Jacob Steinhardt","berkeley",2,4.8,"faculty","True","1",151572,"Stanford University",8618,33,32,107,2007,2023
+"64","Jairo Fúquene","ucdavis",13,4,"faculty","True","1",104417,"UC Davis",133,6,6,16,2005,2019
+"66","Jane-Ling Wang","ucdavis",13,4,"faculty","True","0",316296,"Distinguished Professor of Statistics",11769,52,0,169,1985,2022
+"67","Janet Sinsheimer","ucla",19,3.9,"faculty","True","0",220000,"Professor Human Genetics, UCLA",13739,60,0,335,1991,2022
+"69","Jennie Brand","ucla",19,3.9,"faculty","True","0",271950,"Professor, University of California - Los Angeles",5617,25,35,53,2003,2022
+"71","Jiantao Jiao","berkeley",2,4.8,"faculty","True","1",159533,"Assistant Professor of EECS and Statistics, University of California, Berkeley",3388,24,79,64,2010,2023
+"72","Jie Peng","ucdavis",13,4,"faculty","True","1",167016,"University of California, Davis",3571,19,5,73,2003,2022
+"73","Jiming Jiang","ucdavis",13,4,"faculty","True","1",191986,"Professor of Statistics, University of California",5039,33,0,134,1993,2022
+"74","Jingyi Li","ucla",19,3.9,"faculty","True","0",204084,"Professor, Department of Statistics, University of California at Los Angeles (UCLA)",15875,24,30,75,2009,2022
+"75","Joachim Vandekerckhove","uci",27,3.5,"faculty","True","1",173833,"University of California, Irvine",5528,41,80,98,2005,2023
+"77","Jon McAuliffe","berkeley",2,4.8,"faculty","False","1",20033,"Professor (Adj.) of Statistics, University of California, Berkeley",9910,20,34,35,2000,2021
+"79","Judea Pearl","ucla",19,3.9,"faculty","False","0",82345,"Professor of Computer Science, University of California, Los Angeles",126947,115,1,734,1937,2023
+"80","Juhee Lee","ucsc",44,2.9,"faculty","True","0",56152,"Applied Mathematics and Statistics, UC Santa Cruz",365,10,0,26,1995,2016
+"81","Jungseock Joo","ucla",19,3.9,"faculty","True","1",201125,"Principal Engineer, Nvidia; Associate Professor, UCLA",1436,19,46,59,2011,2023
+"82","Karen McKinnon","ucla",19,3.9,"faculty","True","0",153777,"Assistant Professor of Statistics and the Environment, UCLA",1650,18,55,90,2009,2023
+"83","Kenneth Lange","ucla",19,3.9,"faculty","True","1",334600,"Professor of Computational Medicine, Human Genetics, and Statistics, UCLA",41286,76,40,440,1971,2023
+"85","Krishnakumar Balasubramanian","ucdavis",13,4,"faculty","True","1",121217,"University of California, Davis",846,17,0,53,2010,2023
+"87","Li Cai","ucla",19,3.9,"faculty","True","0",276233,"Professor, University of California, Los Angeles",8413,40,41,103,2006,2021
+"90","Marcela Alfaro Cordoba","ucsc",44,2.9,"faculty","True","0",145818,"University of California, Santa Cruz",343,7,29,23,2010,2022
+"92","Mark Handcock","ucla",19,3.9,"faculty","True","1",263967,"Professor of Statistics, UCLA",22910,55,43,262,1987,2022
+"93","Mark van der Laan","berkeley",2,4.8,"faculty","True","1",372316,"Jiann-Ping Hsu/Karl E. Peace Professor of Biostatistics & Statistics, University of California Berkeley",32045,86,3,786,1991,2023
+"94","Martin Wainwright","berkeley",2,4.8,"faculty","True","1",285346,"Professor of EECS and Statistics, UC Berkeley",51371,100,49,386,1982,2023
+"95","Matthew Harding","uci",27,3.5,"faculty","True","1",247033,"Professor of Economics and Statistics",2627,27,29,108,1998,2023
+"96","Maxime Pouokam","ucdavis",13,4,"faculty","False","1",116240,"Lecturer of Statistics, UC Davis",35,2,0,6,2016,2022
+"97","Michael Jordan","berkeley",2,4.8,"faculty","True","1",443783,"Professor of Electrical Engineering and Computer Sciences and Professor of Statistics, UC Berkeley",254526,197,196,1217,1905,2023
+"98","Michael Mahoney","berkeley",2,4.8,"faculty","False","1",135778,"Professor of Statistics, UC Berkeley",26603,68,52,365,1969,2023
+"99","Michael Shin","ucla",19,3.9,"faculty","True","1",301604,"Associate Professor, UCLA",1733,19,0,55,1995,2022
+"100","Michael Tsiang","ucla",19,3.9,"faculty","False","1",119159,"Lecturer, UCLA",1413,7,0,18,2004,2019
+"102","Miles Lopes","ucdavis",13,4,"faculty","True","1",144208,"UC Davis",537,12,0,24,2011,2023
+"103","Mina Karzand","ucdavis",13,4,"faculty","True","0",66897,"MIT",166,5,4,19,2009,2021
+"104","Mine Dogucu","uci",27,3.5,"faculty","True","0",151749,"Department of Statistics, University of California Irvine",79,5,5,17,2017,2022
+"105","Nicholas Jewell","berkeley",2,4.8,"faculty","False","1",65864,"Professor of Biostatistics and Statistics",17895,66,0,319,1977,2023
+"107","Onyebuchi Arah","ucla",19,3.9,"faculty","True","1",295544,"Professor at UCLA; Honorary Skou Professor at Aarhus University",23455,59,0,384,2002,2023
+"109","Paul Parker","ucsc",44,2.9,"faculty","True","1",127519,"University of California, Santa Cruz",107,5,7,19,2018,2023
+"110","Peng Ding","berkeley",2,4.8,"faculty","True","1",170301,"University of California, Berkeley",5830,30,16,83,2011,2023
+"111","Peter Bartlett","berkeley",2,4.8,"faculty","True","1",296650,"Professor, EECS and Statistics, UC Berkeley",44736,81,50,424,1990,2023
+"112","Peter Bickel","berkeley",2,4.8,"faculty","False","1",20001,"Professor of Statistics, UC Berkeley",85106,98,0,498,1963,2023
+"113","Philip Stark","berkeley",2,4.8,"faculty","True","1",240225,"Professor of Statistics, University of California, Berkeley",7250,37,40,304,1985,2023
+"114","Pierre Baldi","uci",27,3.5,"faculty","True","1",537304,"Professor, University of California, Irvine",62058,126,124,760,1986,2023
+"116","Qing Zhou","ucla",19,3.9,"faculty","True","0",206917,"Professor of Statistics, UCLA",5784,26,27,64,2001,2022
+"118","Rasmus Nielsen","berkeley",2,4.8,"faculty","True","1",336392,"UC Berkeley, University of Copenhagen",99702,148,65,463,1996,2023
+"121","Robert Lund","ucsc",44,2.9,"faculty","True","1",347191,"Statistics, University of California - Santa Cruz",4681,34,0,196,1974,2023
+"123","Samuel Pimentel","berkeley",2,4.8,"faculty","True","1",166702,"Assistant Professor, University of California, Berkeley",437,9,5,34,2011,2023
+"124","Sandrine Dudoit","berkeley",2,4.8,"faculty","True","0",245998,"Division of Biostatistics and Department of Statistics, University of California, Berkeley",55408,65,0,276,1999,2023
+"127","Shizhe Chen","ucdavis",13,4,"faculty","True","1",151983,"University of California, Davis",290,5,2,5,2014,2017
+"129","Song Mei","berkeley",2,4.8,"faculty","True","1",163284,"Assistant Professor at UC Berkeley",2365,13,21,33,2015,2023
+"130","Stephan Mandt","uci",27,3.5,"faculty","True","1",288067,"Associate Professor, University of California, Irvine",4472,28,43,111,2009,2023
+"132","Sudipto Banerjee","ucla",19,3.9,"faculty","True","1",326612,"University of California Los Angeles",14690,52,5,300,1957,2023
+"133","Susan Cochran","ucla",19,3.9,"faculty","True","0",225651,"Professor of Epidemiology, UCLA School of Public Health",25798,70,1,246,1978,2022
+"134","Tao Gao","ucla",19,3.9,"faculty","True","1",184990,"UCLA Department of Statistics and Communication",1428,15,0,68,2004,2022
+"136","Thomas Bengtsson","berkeley",2,4.8,"faculty","False","1",33475,"Dept. Statistics, UC-Berkeley",2865,17,6,64,2000,2022
+"139","Tianchen Qian","uci",27,3.5,"faculty","True","1",147217,"Assistant Professor of Statistics, University of California, Irvine",287,10,9,43,2014,2022
+"140","Veronica Berrocal","uci",27,3.5,"faculty","True","0",197908,"Professor of Statistics, University of California, Irvine",2436,25,17,82,2004,2022
+"142","Weining Shen","uci",27,3.5,"faculty","True","0",161338,"Associate Professor of Statistics, University of California, Irvine",807,12,9,60,2012,2023
+"145","Will Fithian","berkeley",2,4.8,"faculty","True","1",140174,"Assistant Professor in Statistics, University of California Berkeley",2176,18,13,38,2012,2022
+"147","Xiao Hui Tai","ucdavis",13,4,"faculty","True","0",66140,"U.C. Berkeley",176,4,0,16,2018,2022
+"148","Xiaodong Li","ucdavis",13,4,"faculty","True","1",249846,"Associate Professor, University of California at Davis",10315,14,16,20,2011,2022
+"150","Xiucai Ding","ucdavis",13,4,"faculty","True","1",159533,"Assistant Professor of Statistics, UC Davis",262,8,7,25,2016,2023
+"152","Zhaoxia Yu","uci",27,3.5,"faculty","True","0",151208,"Professor of Statistics, University of California, Irvine",2543,23,0,76,2002,2022

@@ -1,0 +1,153 @@
+,Unnamed: 0,name,school,rank,school_score,role,tenure_track,pred,Total.Pay,affiliation,cited_by,h_index,count_unique_coauthor,count_pub,year_first_pub,year_last_pub
+0,1,Adam Lucas,berkeley,2,4.8,faculty,False,1.0,123297,"MD-PhD Candidate, Washington University",851.0,10.0,0.0,20.0,2015,2023
+1,2,Adityanand Guntuboyina,berkeley,2,4.8,faculty,True,None,151827,"Associate Professor, Department of Statistics, University of California, Berkeley",1190.0,17.0,13.0,42.0,2009,2022
+2,3,Akram Almohalwas,ucla,19,3.9,faculty,False,1.0,125337,,,,,,,
+3,4,Alan Hammond,berkeley,2,4.8,faculty,True,1.0,162649,"Professor of Mathematics and Statistics, U.C. Berkeley",1241.0,22.0,0.0,67.0,2001,2023
+4,5,Alexander Aue,ucdavis,13,4.0,faculty,True,1.0,269509,University of Virginia,39.0,2.0,0.0,3.0,2020,2021
+5,6,Alistair Sinclair,berkeley,2,4.8,faculty,True,1.0,278697,Independent writer and researcher,31.0,3.0,0.0,16.0,1995,2017
+6,7,Alyson Fletcher,ucla,19,3.9,faculty,True,0.0,87617,"Associate Professor, UCLA",3508.0,30.0,16.0,80.0,2002,2022
+7,8,Andrew Bray,berkeley,2,4.8,faculty,True,1.0,157792,Unknown affiliation,1117.0,13.0,0.0,96.0,1973,2015
+8,9,Andrew Farris,ucdavis,13,4.0,faculty,False,1.0,93052,"Marie Curie Fellow, ICFO",768.0,15.0,0.0,47.0,2004,2022
+9,10,Anindita Adhikari,berkeley,2,4.8,faculty,True,0.0,197629,"Department of Management Studies, Sikkim Manipal Institute of Technology",90.0,5.0,4.0,35.0,1986,2022
+10,11,Annie Qu,uci,27,3.5,faculty,True,0.0,280950,University of California Irvine,3704.0,29.0,28.0,140.0,1920,2023
+11,12,Arash Amini,ucla,19,3.9,faculty,True,1.0,129425,"Associate Professor of Statistics, UCLA",1388.0,14.0,0.0,45.0,2006,2023
+12,13,Ariana Anderson,ucla,19,3.9,faculty,True,0.0,130459,"Assistant Professor, University of California, Los Angeles",1242.0,19.0,21.0,66.0,1952,2023
+13,14,Athanasios Kottas,ucsc,44,2.9,faculty,True,1.0,215533,,,,,,,
+14,15,Avi Feller,berkeley,2,4.8,faculty,True,1.0,231422,UC Berkeley,3563.0,26.0,12.0,68.0,2009,2023
+15,16,Babak Shahbaba,uci,27,3.5,faculty,True,1.0,234299,"Statistics and Computer Science, University of California, Irvine",2812.0,23.0,0.0,137.0,2001,2023
+16,17,Balakanapathy Rajaratnam,ucdavis,13,4.0,faculty,True,1.0,178656,"University of California, Davis",5481.0,33.0,0.0,202.0,1999,2022
+17,18,Bernd Sturmfels,berkeley,2,4.8,faculty,True,1.0,64621,"Director of the Max Planck Institute for Mathematics in the Sciences in Leipzig, Germany",33026.0,87.0,0.0,364.0,1985,2022
+18,19,Bin Nan,uci,27,3.5,faculty,True,1.0,362775,Unknown affiliation,7403.0,49.0,0.0,203.0,2000,2023
+19,20,Bin Yu,berkeley,2,4.8,faculty,True,1.0,427070,"Professor of Statistics and EECS, UC Berkeley",36688.0,76.0,26.0,327.0,1989,2023
+20,21,Bingling Wang,ucla,19,3.9,faculty,False,0.0,133623,ShanghaiTech university,140.0,5.0,0.0,24.0,2019,2022
+21,22,Brigitte Baldi,uci,27,3.5,faculty,False,0.0,111350,,,,,,,
+22,23,Bruno Sanso,ucsc,44,2.9,faculty,True,1.0,244911,,,,,,,
+23,24,Can M. Le,ucdavis,13,4.0,faculty,True,1.0,136617,sinh vien truong dai hoc y duoc Can Tho,5737.0,44.0,0.0,163.0,1975,2020
+24,25,Carter Butts,uci,27,3.5,faculty,True,1.0,204083,"Chancellor's Professor, Departments of Sociology, Statistics, Computer Science, and EECS, UC Irvine",13363.0,50.0,104.0,286.0,1997,2023
+25,26,Catherine Sugar,ucla,19,3.9,faculty,True,0.0,235734,University of California Los Angeles,14386.0,65.0,14.0,253.0,1949,2023
+26,27,Chad Hazlett,ucla,19,3.9,faculty,True,1.0,160745,"UCLA, Dept. of Statistics, Dept. of Political Science",2360.0,18.0,5.0,63.0,2002,2023
+27,28,Christiana Drake,ucdavis,13,4.0,faculty,True,0.0,166258,"Professor of Statistics, University of California, Davis",4251.0,30.0,0.0,140.0,1977,2023
+28,29,Christina Palmer,ucla,19,3.9,faculty,True,0.0,281259,"Harvard Medical School; Massachusetts General Hospital; Ragon Institute of MGH, MIT and Harvard;",2006.0,19.0,0.0,72.0,1988,2023
+29,30,Christopher Paciorek,berkeley,2,4.8,faculty,False,1.0,100722,"Adjunct Professor, Department of Statistics, University of California Berkeley",23191.0,44.0,0.0,106.0,1995,2017
+30,31,Daniel Gillen,uci,27,3.5,faculty,True,1.0,377072,"Chancellor’s Professor and Chair of Statistics, University of California, Irvine",21746.0,64.0,20.0,324.0,1991,2023
+31,32,David Aldous,berkeley,2,4.8,faculty,False,1.0,5006,"Emeritus Professor of Statistics, U.C. Berkeley",20407.0,64.0,27.0,325.0,1973,2023
+32,33,David Armstrong,uci,27,3.5,faculty,False,1.0,102236,"Professor of Surgery and Director, SALSA, Keck School of Medicine of University of Southern",64623.0,118.0,182.0,966.0,1972,2023
+33,34,David Draper,ucsc,44,2.9,faculty,True,1.0,266829,"Professor (Statistics), Department (Statistics), University (California, Santa Cruz)",19589.0,48.0,45.0,228.0,1930,2023
+34,35,David Rigby,ucla,19,3.9,faculty,True,1.0,255367,"Doctoral Candidate, University of North Carolina at Chapel Hill",58.0,2.0,1.0,2.0,2018,2019
+35,36,David Zes,ucla,19,3.9,faculty,False,1.0,98395,"Maitre de conférences, Université Pierre et Marie Curie (Paris 6)",1022.0,17.0,8.0,59.0,2004,2023
+36,37,Debashis Paul,ucdavis,13,4.0,faculty,True,1.0,155200,"Department of Statistics, University of California, Davis",3675.0,21.0,20.0,113.0,2005,2023
+37,38,Deborah Nolan,berkeley,2,4.8,faculty,False,0.0,248199,University of California,3192.0,23.0,0.0,128.0,1987,2022
+38,39,Dorota Dabrowska,ucla,19,3.9,faculty,False,0.0,82411,,,,,,,
+39,40,Duncan Temple Lang,ucdavis,13,4.0,faculty,True,1.0,233367,"Professor, University of California, Davis",1128.0,12.0,0.0,48.0,1997,2021
+40,41,Edward Leamer,ucla,19,3.9,faculty,True,1.0,161852,UCLA,36846.0,59.0,5.0,299.0,1968,2023
+41,42,Elizabeth Purdom,berkeley,2,4.8,faculty,True,0.0,167911,"Associate Professor of Statistics, UC Berkeley",32259.0,33.0,10.0,82.0,2004,2022
+42,43,Emanuela Furfaro,ucdavis,13,4.0,faculty,False,0.0,94111,,,,,,,
+43,44,Erik Sudderth,uci,27,3.5,faculty,True,1.0,212617,"Professor of Computer Science, UC Irvine",6953.0,38.0,34.0,127.0,1998,2022
+44,45,Erin Hartman,berkeley,2,4.8,faculty,True,0.0,168750,UCLA,453.0,9.0,0.0,12.0,2009,2021
+45,46,Ethan Anderes,ucdavis,13,4.0,faculty,True,1.0,154861,,,,,,,
+46,47,Fletcher Ibser,berkeley,2,4.8,faculty,False,1.0,98725,,,,,,,
+47,48,Frederic Schoenberg,ucla,19,3.9,faculty,True,1.0,280564,Unknown affiliation,4895.0,35.0,0.0,182.0,1997,2023
+48,49,Fushing Hsieh,ucdavis,13,4.0,faculty,True,1.0,162617,,,,,,,
+49,50,Gaston Sanchez Trujillo,berkeley,2,4.8,faculty,False,1.0,61563,,,,,,,
+50,51,George Roussas,ucdavis,13,4.0,faculty,False,1.0,10402,,,,,,,
+51,52,Giles Hooker,berkeley,2,4.8,faculty,True,1.0,70833,"Professor of Statistics, UC Berkeley",6239.0,35.0,64.0,185.0,1864,2023
+52,53,Graeme Blair,ucla,19,3.9,faculty,True,1.0,140700,STFC,31481.0,93.0,0.0,415.0,1986,2018
+53,54,Guang Cheng,ucla,19,3.9,faculty,True,1.0,15750,Chang Gung University,9018.0,48.0,0.0,182.0,1988,2023
+54,55,Guani Wu,ucla,19,3.9,faculty,False,1.0,123412,"Lecturer, University of California, Los Angeles",258.0,6.0,3.0,8.0,2009,2020
+55,56,Haiyan Huang,berkeley,2,4.8,faculty,True,0.0,208260,"University of California, Berkeley",26141.0,33.0,26.0,87.0,2002,2023
+56,57,Hal Stern,uci,27,3.5,faculty,True,1.0,439855,"Professor of Statistics, University of California, Irvine",50325.0,48.0,0.0,240.0,1986,2023
+57,58,Hao Chen,ucdavis,13,4.0,faculty,True,1.0,146433,National Taiwan University,21784.0,67.0,0.0,154.0,2005,2022
+58,59,Herbie Lee,ucsc,44,2.9,faculty,True,1.0,282500,University of Michigan,1.0,1.0,0.0,2.0,2020,2021
+59,60,Hongjing Lu,ucla,19,3.9,faculty,True,0.0,189955,"University of California, Los Angeles (UCLA)",2979.0,29.0,46.0,152.0,2002,2022
+60,61,Hongquan Xu,ucla,19,3.9,faculty,True,1.0,239626,UCLA Statistics,2758.0,32.0,24.0,86.0,1990,2023
+61,62,Ivan Jeliazkov,uci,27,3.5,faculty,True,1.0,169050,"Associate Professor of Economics and Statistics, University of California Irvine",2376.0,14.0,16.0,34.0,2001,2020
+62,63,Jacob Steinhardt,berkeley,2,4.8,faculty,True,1.0,151572,Stanford University,8618.0,33.0,32.0,107.0,2007,2023
+63,64,Jairo Fúquene,ucdavis,13,4.0,faculty,True,1.0,104417,UC Davis,133.0,6.0,6.0,16.0,2005,2019
+64,65,Jamshid Namdari,ucdavis,13,4.0,faculty,False,1.0,76204,,,,,,,
+65,66,Jane-Ling Wang,ucdavis,13,4.0,faculty,True,None,316296,Distinguished Professor of Statistics,11769.0,52.0,0.0,169.0,1985,2022
+66,67,Janet Sinsheimer,ucla,19,3.9,faculty,True,0.0,220000,"Professor Human Genetics, UCLA",13739.0,60.0,0.0,335.0,1991,2022
+67,68,Janice Reiff,ucla,19,3.9,faculty,True,0.0,86790,,,,,,,
+68,69,Jennie Brand,ucla,19,3.9,faculty,True,0.0,271950,University of Sydney,89972.0,75.0,0.0,448.0,1994,2023
+69,70,Jennifer Chayes,berkeley,2,4.8,faculty,True,0.0,731250,"Professor, UC Berkeley",15596.0,68.0,49.0,253.0,1983,2022
+70,71,Jiantao Jiao,berkeley,2,4.8,faculty,True,1.0,159533,"School of chemistry and chemical engineering, Shanghai Jiao Tong university",6087.0,47.0,10.0,140.0,1996,2023
+71,72,Jie Peng,ucdavis,13,4.0,faculty,True,1.0,167016,University of Electronic Science and Technology of China or Tsinghua or Stanford or SLAC,24509.0,73.0,15.0,126.0,2012,2023
+72,73,Jiming Jiang,ucdavis,13,4.0,faculty,True,1.0,191986,Michigan State University,36329.0,91.0,0.0,296.0,1987,2022
+73,74,Jingyi Li,ucla,19,3.9,faculty,True,0.0,204084,"Professor, Department of Statistics, University of California at Los Angeles (UCLA)",15875.0,24.0,30.0,75.0,2009,2022
+74,75,Joachim Vandekerckhove,uci,27,3.5,faculty,True,1.0,173833,"University of California, Irvine",5528.0,41.0,80.0,98.0,2005,2023
+75,76,Joanna Whitener,ucdavis,13,4.0,faculty,False,0.0,92987,,,,,,,
+76,77,Jon McAuliffe,berkeley,2,4.8,faculty,False,1.0,20033,"Professor (Adj.) of Statistics, University of California, Berkeley",9910.0,20.0,34.0,35.0,2000,2021
+77,78,Juana Sanchez,ucla,19,3.9,faculty,False,0.0,134473,Universitat Illes Balears,3669.0,33.0,0.0,121.0,2002,2018
+78,79,Judea Pearl,ucla,19,3.9,faculty,False,0.0,82345,"Professor of Computer Science, University of California, Los Angeles",126947.0,115.0,1.0,734.0,1937,2023
+79,80,Juhee Lee,ucsc,44,2.9,faculty,True,0.0,56152,Memorial Sloan-Kettering Cancer Center,8268.0,31.0,0.0,57.0,1912,2019
+80,81,Jungseock Joo,ucla,19,3.9,faculty,True,None,201125,"Principal Engineer, Nvidia; Associate Professor, UCLA",1436.0,19.0,46.0,59.0,2011,2023
+81,82,Karen McKinnon,ucla,19,3.9,faculty,True,0.0,153777,"Assistant Professor of Statistics and the Environment, UCLA",1650.0,18.0,55.0,90.0,2009,2023
+82,83,Kenneth Lange,ucla,19,3.9,faculty,True,1.0,334600,"Professor of Computational Medicine, Human Genetics, and Statistics, UCLA",41286.0,76.0,40.0,440.0,1971,2023
+83,84,Kevin McCardle,ucla,19,3.9,faculty,True,1.0,25225,,,,,,,
+84,85,Krishnakumar Balasubramanian,ucdavis,13,4.0,faculty,True,1.0,121217,Unknown affiliation,3756.0,24.0,0.0,42.0,1996,2017
+85,86,Lee Kucera,uci,27,3.5,faculty,False,1.0,17791,,,,,,,
+86,87,Li Cai,ucla,19,3.9,faculty,True,0.0,276233,"Professor, University of California, Los Angeles",8413.0,40.0,41.0,103.0,2006,2021
+87,88,Libor Pospisil,berkeley,2,4.8,faculty,False,1.0,33475,,,,,,,
+88,89,Linda Zanontian,ucla,19,3.9,faculty,False,0.0,86987,,,,,,,
+89,90,Marcela Alfaro Cordoba,ucsc,44,2.9,faculty,True,0.0,145818,"University of California, Santa Cruz",343.0,7.0,29.0,23.0,2010,2022
+90,91,Maria Cha,ucla,19,3.9,faculty,False,0.0,119159,"Queen Mary, University of London",490.0,9.0,3.0,21.0,2005,2022
+91,92,Mark Handcock,ucla,19,3.9,faculty,True,1.0,263967,"Professor of Statistics, UCLA",22910.0,55.0,43.0,262.0,1987,2022
+92,93,Mark van der Laan,berkeley,2,4.8,faculty,True,1.0,372316,"Jiann-Ping Hsu/Karl E. Peace Professor of Biostatistics & Statistics, University of California Berkeley",32045.0,86.0,3.0,786.0,1991,2023
+93,94,Martin Wainwright,berkeley,2,4.8,faculty,True,1.0,285346,"Professor of EECS and Statistics, UC Berkeley",51371.0,100.0,49.0,386.0,1982,2023
+94,95,Matthew Harding,uci,27,3.5,faculty,True,1.0,247033,Professor of Economics and Statistics,2627.0,27.0,29.0,108.0,1998,2023
+95,96,Maxime Pouokam,ucdavis,13,4.0,faculty,False,1.0,116240,"Lecturer of Statistics, UC Davis",35.0,2.0,0.0,6.0,2016,2022
+96,97,Michael Jordan,berkeley,2,4.8,faculty,True,1.0,443783,"Professor of Electrical Engineering and Computer Sciences and Professor of Statistics, UC Berkeley",254526.0,197.0,196.0,1217.0,1905,2023
+97,98,Michael Mahoney,berkeley,2,4.8,faculty,False,1.0,135778,"Professor of Statistics, UC Berkeley",26603.0,68.0,52.0,365.0,1969,2023
+98,99,Michael Shin,ucla,19,3.9,faculty,True,1.0,301604,"Associate Professor, UCLA",1733.0,19.0,0.0,55.0,1995,2022
+99,100,Michael Tsiang,ucla,19,3.9,faculty,False,1.0,119159,"University of Pittsburgh, School of Medicine",5727.0,40.0,0.0,73.0,1994,2023
+100,101,Miles Chen,ucla,19,3.9,faculty,False,1.0,155719,,,,,,,
+101,102,Miles Lopes,ucdavis,13,4.0,faculty,True,1.0,144208,UC Davis,537.0,12.0,0.0,24.0,2011,2023
+102,103,Mina Karzand,ucdavis,13,4.0,faculty,True,0.0,66897,MIT,166.0,5.0,4.0,19.0,2009,2021
+103,104,Mine Dogucu,uci,27,3.5,faculty,True,0.0,151749,"Department of Statistics, University of California Irvine",79.0,5.0,5.0,17.0,2017,2022
+104,105,Nicholas Jewell,berkeley,2,4.8,faculty,False,1.0,65864,Professor of Biostatistics and Statistics,17895.0,66.0,0.0,319.0,1977,2023
+105,106,Nicolas Christou,ucla,19,3.9,faculty,False,1.0,167614,,,,,,,
+106,107,Onyebuchi Arah,ucla,19,3.9,faculty,True,1.0,295544,Professor at UCLA; Honorary Skou Professor at Aarhus University,23455.0,59.0,0.0,384.0,2002,2023
+107,108,Oscar Hernan Madrid Padilla,ucla,19,3.9,faculty,True,1.0,129475,,,,,,,
+108,109,Paul Parker,ucsc,44,2.9,faculty,True,1.0,127519,University of Waterloo,2517.0,22.0,0.0,144.0,1979,2023
+109,110,Peng Ding,berkeley,2,4.8,faculty,True,1.0,170301,"National Sun Yat-sen University, National Chengchi University",35537.0,58.0,8.0,312.0,1985,2022
+110,111,Peter Bartlett,berkeley,2,4.8,faculty,True,1.0,296650,"Professor, EECS and Statistics, UC Berkeley",44736.0,81.0,50.0,424.0,1990,2023
+111,112,Peter Bickel,berkeley,2,4.8,faculty,False,1.0,20001,"Professor of Statistics, UC Berkeley",85106.0,98.0,0.0,498.0,1963,2023
+112,113,Philip Stark,berkeley,2,4.8,faculty,True,1.0,240225,"Professor of Statistics, University of California, Berkeley",7250.0,37.0,40.0,304.0,1985,2023
+113,114,Pierre Baldi,uci,27,3.5,faculty,True,1.0,537304,"Professor, University of California, Irvine",62058.0,126.0,124.0,760.0,1986,2023
+114,115,Prabir Burman,ucdavis,13,4.0,faculty,True,1.0,207483,,,,,,,
+115,116,Qing Zhou,ucla,19,3.9,faculty,True,0.0,206917,"School of Mathematical and Physical Sciences, Wuhan Textile University, China",15050.0,66.0,32.0,377.0,2012,2023
+116,117,Raquel Prado,ucsc,44,2.9,faculty,True,0.0,201300,Ananas Anam,1258.0,19.0,0.0,32.0,2010,2021
+117,118,Rasmus Nielsen,berkeley,2,4.8,faculty,True,1.0,336392,"UC Berkeley, University of Copenhagen",99702.0,148.0,65.0,463.0,1996,2023
+118,119,Rebecca Emigh,ucla,19,3.9,faculty,True,0.0,239633,"Professor of Sociology, UCLA",1300.0,17.0,0.0,65.0,1989,2023
+119,120,Robert Gould,ucla,19,3.9,faculty,False,1.0,176417,"Robert C. Packard Trustee Chair in Law, USC Gould School of Law",5109.0,35.0,43.0,283.0,1981,2023
+120,121,Robert Lund,ucsc,44,2.9,faculty,True,1.0,347191,"Statistics, University of California - Santa Cruz",4681.0,34.0,0.0,196.0,1974,2023
+121,122,Ruoqi Yu,ucdavis,13,4.0,faculty,True,0.0,29167,,,,,,,
+122,123,Samuel Pimentel,berkeley,2,4.8,faculty,True,1.0,166702,Trinity Western University,444.0,8.0,0.0,14.0,2006,2023
+123,124,Sandrine Dudoit,berkeley,2,4.8,faculty,True,0.0,245998,"Division of Biostatistics and Department of Statistics, University of California, Berkeley",55408.0,65.0,0.0,276.0,1999,2023
+124,125,Scott Bartell,uci,27,3.5,faculty,True,1.0,207294,"Professor of Environmental and Occupational Health, University of California, Irvine",4712.0,38.0,38.0,190.0,1996,2022
+125,126,Shirshendu Ganguly,berkeley,2,4.8,faculty,True,1.0,167196,,,,,,,
+126,127,Shizhe Chen,ucdavis,13,4.0,faculty,True,1.0,151983,INRIA Paris,1670.0,20.0,11.0,56.0,2014,2023
+127,128,Shobhana Murali Stoyanov,berkeley,2,4.8,faculty,False,0.0,79667,,,,,,,
+128,129,Song Mei,berkeley,2,4.8,faculty,True,1.0,163284,"Weill Cornell Medical College and National Institute of Biological Sciences, Beijing",3109.0,11.0,5.0,21.0,2010,2022
+129,130,Stephan Mandt,uci,27,3.5,faculty,True,1.0,288067,"Associate Professor, University of California, Irvine",4472.0,28.0,43.0,111.0,2009,2023
+130,131,Steven Evans,berkeley,2,4.8,faculty,True,1.0,230650,The London School of Hygiene and Tropical Medicine,29041.0,72.0,54.0,463.0,1969,2023
+131,132,Sudipto Banerjee,ucla,19,3.9,faculty,True,1.0,326612,University of California Los Angeles,14690.0,52.0,5.0,300.0,1957,2023
+132,133,Susan Cochran,ucla,19,3.9,faculty,True,0.0,225651,"Professor of Epidemiology, UCLA School of Public Health",25798.0,70.0,1.0,246.0,1978,2022
+133,134,Tao Gao,ucla,19,3.9,faculty,True,1.0,184990,"Assistant Professor, University of Utah",14577.0,55.0,0.0,92.0,2014,2023
+134,135,Theodore Porter,ucla,19,3.9,faculty,True,1.0,283917,"Department of History, UCLA",16700.0,32.0,2.0,239.0,1981,2023
+135,136,Thomas Bengtsson,berkeley,2,4.8,faculty,False,1.0,33475,"Dept. Statistics, UC-Berkeley",2865.0,17.0,6.0,64.0,2000,2022
+136,137,Thomas Ferguson,ucla,19,3.9,faculty,False,1.0,184390,"Professor, ophthalmlogy and Visual siences",27590.0,55.0,0.0,209.0,1982,2021
+137,138,Thomas Lee,ucdavis,13,4.0,faculty,True,1.0,325534,"Professor of Management, Middle Tennessee State University",15600.0,64.0,35.0,310.0,1982,2022
+138,139,Tianchen Qian,uci,27,3.5,faculty,True,1.0,147217,"Assistant Professor of Statistics, University of California, Irvine",287.0,10.0,9.0,43.0,2014,2022
+139,140,Veronica Berrocal,uci,27,3.5,faculty,True,0.0,197908,"Professor of Statistics, University of California, Irvine",2436.0,25.0,17.0,82.0,2004,2022
+140,141,Vivian Lew,ucla,19,3.9,faculty,False,0.0,138857,"Associate Professor, Department of Social Work & Social Administration, Director, Sau Po",3197.0,33.0,23.0,488.0,1991,2023
+141,142,Weining Shen,uci,27,3.5,faculty,True,0.0,161338,"Associate Professor of Statistics, University of California, Irvine",807.0,12.0,9.0,60.0,2012,2023
+142,143,Wesley Johnson,uci,27,3.5,faculty,False,1.0,31825,"CBIM RoundTable Professor of Marketing, Georgia State University",19427.0,67.0,58.0,313.0,1,2023
+143,144,William Clark,ucla,19,3.9,faculty,False,1.0,86563,Professor of Geography UCLA,27076.0,85.0,0.0,718.0,1752,2023
+144,145,Will Fithian,berkeley,2,4.8,faculty,True,1.0,140174,"Assistant Professor in Statistics, University of California Berkeley",2176.0,18.0,13.0,38.0,2012,2022
+145,146,Wolfgang Polonik,ucdavis,13,4.0,faculty,True,1.0,269736,,,,,,,
+146,147,Xiao Hui Tai,ucdavis,13,4.0,faculty,True,0.0,66140,U.C. Berkeley,176.0,4.0,0.0,16.0,2018,2022
+147,148,Xiaodong Li,ucdavis,13,4.0,faculty,True,1.0,249846,University of Virginia,61701.0,119.0,0.0,1068.0,1989,2023
+148,149,Xiaowu Dai,ucla,19,3.9,faculty,True,1.0,93930,,,,,,,
+149,150,Xiucai Ding,ucdavis,13,4.0,faculty,True,None,159533,"Assistant Professor of Statistics, UC Davis",262.0,8.0,7.0,25.0,2016,2023
+150,151,Yun Song,berkeley,2,4.8,faculty,True,0.0,253883,Seoul National University,4053.0,33.0,0.0,181.0,1995,2022
+151,152,Zhaoxia Yu,uci,27,3.5,faculty,True,0.0,151208,"Professor of Statistics, University of California, Irvine",2543.0,23.0,0.0,76.0,2002,2022
