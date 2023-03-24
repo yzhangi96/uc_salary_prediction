@@ -179,3 +179,6 @@ ols <- glm(
   family=gaussian)
 summary(ols)
 
+# Diagnostics
+par(mfrow = c(2, 2))
+plot(ols)
